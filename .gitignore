@@ -106,5 +106,11 @@ InitTestScene*.unity*
 /*.zip
 
 # Untracked Dev Assets
-.*_[Dd]ev/
-.[Dd]ev/
+*_[Dd][Ee][Vv].*
+[Dd][Ee][Vv]_*.*
+**/[Dd][Ee][Vv]/
+[Dd][Ee][Vv].*
+
+# Recovery Files
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
